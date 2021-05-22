@@ -33,4 +33,4 @@ work. If not, see <https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt>
 }
 ```
 
-[![DOI](https://zenodo.org/badge/369775664.svg)](https://zenodo.org/badge/latestdoi/369775664)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4780947.svg)](https://doi.org/10.5281/zenodo.4780947)
