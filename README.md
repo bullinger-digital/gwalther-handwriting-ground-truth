@@ -31,3 +31,5 @@ work. If not, see <https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt>
 ```
 @inproceedings{TBA
 }
+
+[![DOI](https://zenodo.org/badge/369775664.svg)](https://zenodo.org/badge/latestdoi/369775664)
