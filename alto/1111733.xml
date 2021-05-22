@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-05-22T12:11:02.771+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2581" WIDTH="2000">
+         <TopMargin HEIGHT="0" WIDTH="2000" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2581" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2581" WIDTH="0" VPOS="0" HPOS="2000"/>
+         <BottomMargin HEIGHT="0" WIDTH="2000" VPOS="2581" HPOS="0"/>
+         <PrintSpace HEIGHT="2581" WIDTH="2000" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="452" WIDTH="1008" VPOS="341" HPOS="392">
+               <Shape>
+                  <Polygon POINTS="392,341 392,793 1400,793 1400,341"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="392,382 442,383 492,383 543,384 593,385 643,386 694,387 744,388 794,389 845,390 895,391 945,392 996,393 1046,394 1096,395 1147,395 1197,395 1247,396 1298,395 1348,395 1399,394"
+                         HEIGHT="122"
+                         WIDTH="1020"
+                         VPOS="291"
+                         HPOS="386">
+                  <String ID="string_r1l1"
+                          HEIGHT="122"
+                          WIDTH="1020"
+                          VPOS="291"
+                          HPOS="386"
+                          CONTENT="DE VENDITIONE"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="457,489 504,490 551,491 598,492 645,492 692,493 739,494 787,495 834,496 881,497 928,498 975,499 1022,500 1069,502 1117,504 1164,506 1211,507 1258,509 1305,512 1352,515 1400,518"
+                         HEIGHT="128"
+                         WIDTH="959"
+                         VPOS="414"
+                         HPOS="449">
+                  <String ID="string_r1l2"
+                          HEIGHT="128"
+                          WIDTH="959"
+                          VPOS="414"
+                          HPOS="449"
+                          CONTENT="IOSEPHI IN AEGYPTUM"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="479,576 521,577 563,579 605,580 648,582 690,583 732,584 774,586 817,587 859,589 901,590 943,592 986,593 1028,595 1070,597 1112,599 1155,600 1197,602 1239,604 1281,606 1324,607"
+                         HEIGHT="130"
+                         WIDTH="860"
+                         VPOS="522"
+                         HPOS="472">
+                  <String ID="string_r1l3"
+                          HEIGHT="130"
+                          WIDTH="860"
+                          VPOS="522"
+                          HPOS="472"
+                          CONTENT="ET INSANO SEPHIRAE"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="807,671 832,670 857,669 883,669 908,669 934,669 959,669 984,669 1010,670 1035,671 1061,672 1086,673 1112,673"
+                         HEIGHT="90"
+                         WIDTH="318"
+                         VPOS="608"
+                         HPOS="800">
+                  <String ID="string_r1l4"
+                          HEIGHT="90"
+                          WIDTH="318"
+                          VPOS="608"
+                          HPOS="800"
+                          CONTENT="AMORE  "/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="681,741 711,742 742,742 773,742 803,743 834,743 865,744 895,744 926,745 957,746 988,748 1018,749 1049,751 1080,753 1110,755 1141,757 1172,761 1202,763 1233,767 1264,771 1295,775"
+                         HEIGHT="143"
+                         WIDTH="631"
+                         VPOS="653"
+                         HPOS="673">
+                  <String ID="string_r1l5"
+                          HEIGHT="143"
+                          WIDTH="631"
+                          VPOS="653"
+                          HPOS="673"
+                          CONTENT="LIBRI DUO"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

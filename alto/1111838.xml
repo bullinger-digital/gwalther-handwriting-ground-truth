@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-05-22T12:11:59.639+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2581" WIDTH="2000">
+         <TopMargin HEIGHT="0" WIDTH="2000" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2581" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2581" WIDTH="0" VPOS="0" HPOS="2000"/>
+         <BottomMargin HEIGHT="0" WIDTH="2000" VPOS="2581" HPOS="0"/>
+         <PrintSpace HEIGHT="2581" WIDTH="2000" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="351" WIDTH="1142" VPOS="118" HPOS="534">
+               <Shape>
+                  <Polygon POINTS="534,118 534,469 1676,469 1676,118"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="604,185 656,179 708,174 760,170 813,167 865,164 917,162 969,161 1022,159 1074,159 1126,158 1178,158 1231,158 1283,157 1335,157 1387,157 1440,156 1492,155 1544,154 1596,153 1649,150"
+                         HEIGHT="112"
+                         WIDTH="1061"
+                         VPOS="99"
+                         HPOS="595">
+                  <String ID="string_r1l1"
+                          HEIGHT="112"
+                          WIDTH="1061"
+                          VPOS="99"
+                          HPOS="595"
+                          CONTENT="At gelido vati membra timore tremunt"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="534,262 581,255 628,250 676,246 723,242 771,238 818,236 865,233 913,231 960,230 1008,228 1055,228 1102,227 1150,226 1197,226 1245,226 1292,225 1339,225 1387,224 1434,224 1482,223"
+                         HEIGHT="133"
+                         WIDTH="965"
+                         VPOS="170"
+                         HPOS="525">
+                  <String ID="string_r1l2"
+                          HEIGHT="133"
+                          WIDTH="965"
+                          VPOS="170"
+                          HPOS="525"
+                          CONTENT="Agnoscitque Dei clementis pectoris iras"/>
+               </TextLine>
+               <TextLine ID="line_1615687457440_5641"
+                         BASELINE="600,314 640,311 680,307 720,304 760,302 800,300 840,298 881,296 921,295 961,294 1001,293 1041,293 1081,292 1121,292 1162,292 1202,292 1242,293 1282,293 1322,293 1362,294 1403,294 1418,295 1428,295"
+                         HEIGHT="99"
+                         WIDTH="842"
+                         VPOS="239"
+                         HPOS="592">
+                  <String ID="string_line_1615687457440_5641"
+                          HEIGHT="99"
+                          WIDTH="842"
+                          VPOS="239"
+                          HPOS="592"
+                          CONTENT="Qui veluti natis consuluisse velit."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="552,391 608,384 664,379 720,373 776,370 833,366 889,363 945,362 1001,361 1057,360 1114,360 1170,360 1226,361 1282,363 1338,364 1395,366 1451,368 1507,370 1563,373 1619,375 1676,377"
+                         HEIGHT="121"
+                         WIDTH="1138"
+                         VPOS="296"
+                         HPOS="545">
+                  <String ID="string_r1l5"
+                          HEIGHT="121"
+                          WIDTH="1138"
+                          VPOS="296"
+                          HPOS="545"
+                          CONTENT="Corda furor linquit vehemens irasque remittit"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="591,453 638,448 686,444 733,441 781,438 828,435 876,433 923,431 971,430 1018,429 1066,429 1113,428 1161,428 1208,429 1256,429 1303,430 1351,431 1398,433 1446,435 1493,437 1541,439"
+                         HEIGHT="108"
+                         WIDTH="966"
+                         VPOS="376"
+                         HPOS="583">
+                  <String ID="string_r1l6"
+                          HEIGHT="108"
+                          WIDTH="966"
+                          VPOS="376"
+                          HPOS="583"
+                          CONTENT="Et Domini gaudet non valuisse minas."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

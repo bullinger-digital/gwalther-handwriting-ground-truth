@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.3.9:model_id=27337:lm=none:date=09_03_2021_13:58
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.3.9:model_id=27337:lm=none:date=09_03_2021_13:57
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7</Creator>
+        <Created>2021-03-09T13:06:31.164+01:00</Created>
+        <LastChange>2021-03-12T11:37:20.674+01:00</LastChange>
+        <TranskribusMetadata docId="625925" pageId="24647299" pageNr="74" tsid="53623344" status="GT" userId="10592" imgUrl="https://files.transkribus.eu/Get?id=UBQPVCMODMMOJOTDWDLFFSKV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CCJWMEOBHUFJECSXPXWTIEKI" imageId="18988691"/>
+    </Metadata>
+    <Page imageFilename="1111733.jpeg" imageWidth="2000" imageHeight="2581">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1621678262543" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="392,341 392,793 1400,793 1400,341"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="386,394 792,385 882,402 923,392 948,404 1064,395 1124,412 1274,401 1295,413 1330,400 1367,411 1405,404 1406,323 1371,309 1326,336 1284,307 1244,326 1194,313 1137,326 1063,315 801,330 709,292 671,291 620,314 593,300 553,322 516,300 482,300 455,318 387,322 386,394"/>
+                <Baseline points="392,382 442,383 492,383 543,384 593,385 643,386 694,387 744,388 794,389 845,390 895,391 945,392 996,393 1046,394 1096,395 1147,395 1197,395 1247,396 1298,395 1348,395 1399,394"/>
+                <Word id="r1l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="398,342 398,402 421,402 421,342"/>
+                    <TextEquiv>
+                        <Unicode>D</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="569,344 569,404 603,404 603,344"/>
+                    <TextEquiv>
+                        <Unicode>H</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="752,354 752,414 1416,414 1416,354"/>
+                    <TextEquiv>
+                        <Unicode>NDITIONE.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>DE VENDITIONE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="449,513 572,518 620,539 734,522 760,541 834,524 908,541 943,522 978,532 1071,520 1100,538 1215,529 1297,542 1314,527 1388,538 1406,528 1408,442 1172,443 1127,429 1092,445 1049,428 998,458 971,441 880,433 850,452 760,421 665,441 588,414 563,428 452,430 449,513"/>
+                <Baseline points="457,489 504,490 551,491 598,492 645,492 692,493 739,494 787,495 834,496 881,497 928,498 975,499 1022,500 1069,502 1117,504 1164,506 1211,507 1258,509 1305,512 1352,515 1400,518"/>
+                <Word id="r1l2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="451,453 451,513 970,513 970,453"/>
+                    <TextEquiv>
+                        <Unicode>10STXIIIIIII</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1008,466 1008,526 1355,526 1355,466"/>
+                    <TextEquiv>
+                        <Unicode>ATTITI</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>IOSEPHI IN AEGYPTUM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="472,611 527,608 573,627 670,606 813,625 847,609 946,623 1073,612 1101,629 1140,615 1245,652 1329,650 1332,568 1302,550 1264,563 1221,533 1186,555 1150,538 1087,549 1036,533 964,548 850,528 730,542 475,522 472,611"/>
+                <Baseline points="479,576 521,577 563,579 605,580 648,582 690,583 732,584 774,586 817,587 859,589 901,590 943,592 986,593 1028,595 1070,597 1112,599 1155,600 1197,602 1239,604 1281,606 1324,607"/>
+                <Word id="r1l3_w1" custom="readingOrder {index:0;}">
+                    <Coords points="493,537 493,597 566,597 566,537"/>
+                    <TextEquiv>
+                        <Unicode>Et</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w2" custom="readingOrder {index:1;}">
+                    <Coords points="639,542 639,602 681,602 681,542"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w3" custom="readingOrder {index:2;}">
+                    <Coords points="743,547 743,607 932,607 932,547"/>
+                    <TextEquiv>
+                        <Unicode>SAnO</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w4" custom="readingOrder {index:3;}">
+                    <Coords points="995,560 995,620 1330,620 1330,560"/>
+                    <TextEquiv>
+                        <Unicode>SteUIRA.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ET INSANO SEPHIRAE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="800,692 1101,698 1117,694 1118,648 1100,651 1055,618 954,627 849,608 801,629 800,692"/>
+                <Baseline points="807,671 832,670 857,669 883,669 908,669 934,669 959,669 984,669 1010,670 1035,671 1061,672 1086,673 1112,673"/>
+                <Word id="r1l4_w1" custom="readingOrder {index:0;}">
+                    <Coords points="815,629 815,689 1118,689 1118,629"/>
+                    <TextEquiv>
+                        <Unicode>AniORt.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>AMORE  </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="673,777 747,787 807,770 887,788 927,770 952,786 970,772 1026,772 1072,794 1153,773 1179,787 1259,779 1284,796 1301,791 1304,731 1257,730 1183,697 764,697 731,660 707,669 680,653 673,777"/>
+                <Baseline points="681,741 711,742 742,742 773,742 803,743 834,743 865,744 895,744 926,745 957,746 988,748 1018,749 1049,751 1080,753 1110,755 1141,757 1172,761 1202,763 1233,767 1264,771 1295,775"/>
+                <Word id="r1l5_w1" custom="readingOrder {index:0;}">
+                    <Coords points="683,703 683,763 1019,763 1019,703"/>
+                    <TextEquiv>
+                        <Unicode>L18NI</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l5_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1061,720 1061,780 1281,780 1281,720"/>
+                    <TextEquiv>
+                        <Unicode>22O.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>LIBRI DUO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DE VENDITIONE
+IOSEPHI IN AEGYPTUM
+ET INSANO SEPHIRAE
+AMORE  
+LIBRI DUO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-05-22T12:11:01.729+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2581" WIDTH="2000">
+         <TopMargin HEIGHT="0" WIDTH="2000" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2581" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2581" WIDTH="0" VPOS="0" HPOS="2000"/>
+         <BottomMargin HEIGHT="0" WIDTH="2000" VPOS="2581" HPOS="0"/>
+         <PrintSpace HEIGHT="2581" WIDTH="2000" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="211" WIDTH="1158" VPOS="116" HPOS="279">
+               <Shape>
+                  <Polygon POINTS="279,116 279,327 1437,327 1437,116"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="725,158 751,158 777,158 804,157 830,156 857,155 883,154 910,153 936,152 963,151 989,151 1016,151"
+                         HEIGHT="86"
+                         WIDTH="307"
+                         VPOS="109"
+                         HPOS="717">
+                  <String ID="string_r1l1"
+                          HEIGHT="86"
+                          WIDTH="307"
+                          VPOS="109"
+                          HPOS="717"
+                          CONTENT="DAVIDI."/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="279,230 336,230 394,230 452,230 510,230 568,230 626,230 684,230 742,230 800,230 858,230 915,229 973,229 1031,228 1089,228 1147,227 1205,226 1263,225 1321,224 1379,223 1437,222"
+                         HEIGHT="126"
+                         WIDTH="1173"
+                         VPOS="155"
+                         HPOS="272">
+                  <String ID="string_r1l2"
+                          HEIGHT="126"
+                          WIDTH="1173"
+                          VPOS="155"
+                          HPOS="272"
+                          CONTENT="Dum dolet extinctum crudeli fraude maritum"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="375,310 422,309 470,308 517,307 565,306 613,305 660,304 708,304 755,303 803,302 851,302 898,301 946,300 993,300 1041,299 1089,298 1136,298 1184,297 1231,296 1279,295 1327,295"
+                         HEIGHT="112"
+                         WIDTH="967"
+                         VPOS="236"
+                         HPOS="368">
+                  <String ID="string_r1l3"
+                          HEIGHT="112"
+                          WIDTH="967"
+                          VPOS="236"
+                          HPOS="368"
+                          CONTENT="Bethsaba, cum nato non genito occubuit."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

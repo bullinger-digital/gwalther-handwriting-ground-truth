@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.3.9:model_id=27337:lm=none:date=09_03_2021_13:57
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.3.9:model_id=27337:lm=none:date=09_03_2021_13:57
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7</Creator>
+        <Created>2021-03-09T13:06:31.115+01:00</Created>
+        <LastChange>2021-03-12T11:36:34.013+01:00</LastChange>
+        <TranskribusMetadata docId="625925" pageId="24647298" pageNr="73" tsid="53623323" status="GT" userId="10592" imgUrl="https://files.transkribus.eu/Get?id=QFTLONVEJILCXPGTZUBAFBSU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DDLYBFRXCFWHSLECGIBLDERA" imageId="18988690"/>
+    </Metadata>
+    <Page imageFilename="1111713.jpeg" imageWidth="2000" imageHeight="2581">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1621678261494" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="279,116 279,327 1437,327 1437,116"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="719,188 763,170 826,195 873,195 904,169 1024,161 1023,117 904,109 788,132 763,114 717,115 719,188"/>
+                <Baseline points="725,158 751,158 777,158 804,157 830,156 857,155 883,154 910,153 936,152 963,151 989,151 1016,151"/>
+                <Word id="r1l1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="720,114 720,174 1013,174 1013,114"/>
+                    <TextEquiv>
+                        <Unicode>DAVIVI.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>DAVIDI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="273,272 305,281 369,235 440,225 480,248 535,243 635,279 714,245 765,236 794,253 834,229 862,244 961,236 1038,267 1100,244 1152,259 1272,227 1355,257 1413,259 1445,249 1444,176 1315,192 1262,170 1225,179 1182,155 1131,187 1063,177 1028,202 963,163 936,175 922,164 870,197 766,171 611,202 553,195 530,176 472,175 433,199 317,173 272,181 273,272"/>
+                <Baseline points="279,230 336,230 394,230 452,230 510,230 568,230 626,230 684,230 742,230 800,230 858,230 915,229 973,229 1031,228 1089,228 1147,227 1205,226 1263,225 1321,224 1379,223 1437,222"/>
+                <Word id="r1l2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="308,190 308,250 418,250 418,190"/>
+                    <TextEquiv>
+                        <Unicode>Dum</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w2" custom="readingOrder {index:1;}">
+                    <Coords points="465,190 465,250 544,250 544,190"/>
+                    <TextEquiv>
+                        <Unicode>dolet</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w3" custom="readingOrder {index:2;}">
+                    <Coords points="590,190 590,250 787,250 787,190"/>
+                    <TextEquiv>
+                        <Unicode>extinctum</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w4" custom="readingOrder {index:3;}">
+                    <Coords points="849,189 849,249 999,249 999,189"/>
+                    <TextEquiv>
+                        <Unicode>cendeli</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1038,187 1038,247 1171,247 1171,187"/>
+                    <TextEquiv>
+                        <Unicode>frande</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l2_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1210,184 1210,244 1407,244 1407,184"/>
+                    <TextEquiv>
+                        <Unicode>maritum</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Dum dolet extinctum crudeli fraude maritum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="369,348 492,346 610,309 719,318 757,307 771,320 841,296 889,314 923,307 985,347 1117,297 1335,326 1334,249 1291,253 1258,236 1198,264 1124,259 1104,274 1078,259 1045,274 986,243 908,273 849,255 830,273 789,250 721,257 678,288 585,284 547,251 457,241 423,267 368,257 369,348"/>
+                <Baseline points="375,310 422,309 470,308 517,307 565,306 613,305 660,304 708,304 755,303 803,302 851,302 898,301 946,300 993,300 1041,299 1089,298 1136,298 1184,297 1231,296 1279,295 1327,295"/>
+                <Word id="r1l3_w1" custom="readingOrder {index:0;}">
+                    <Coords points="387,267 387,327 583,327 583,267"/>
+                    <TextEquiv>
+                        <Unicode>Pethsabe,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w2" custom="readingOrder {index:1;}">
+                    <Coords points="598,264 598,324 659,324 659,264"/>
+                    <TextEquiv>
+                        <Unicode>cum</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w3" custom="readingOrder {index:2;}">
+                    <Coords points="711,262 711,322 817,322 817,262"/>
+                    <TextEquiv>
+                        <Unicode>nato</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w4" custom="readingOrder {index:3;}">
+                    <Coords points="869,260 869,320 937,320 937,260"/>
+                    <TextEquiv>
+                        <Unicode>non</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w5" custom="readingOrder {index:4;}">
+                    <Coords points="990,258 990,318 1111,318 1111,258"/>
+                    <TextEquiv>
+                        <Unicode>genito</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r1l3_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1155,255 1155,315 1321,315 1321,255"/>
+                    <TextEquiv>
+                        <Unicode>ombuit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Bethsaba, cum nato non genito occubuit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DAVIDI.
+Dum dolet extinctum crudeli fraude maritum
+Bethsaba, cum nato non genito occubuit.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

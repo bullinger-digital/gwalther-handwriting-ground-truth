@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-05-22T12:10:47.716+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2581" WIDTH="2000">
+         <TopMargin HEIGHT="0" WIDTH="2000" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2581" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2581" WIDTH="0" VPOS="0" HPOS="2000"/>
+         <BottomMargin HEIGHT="0" WIDTH="2000" VPOS="2581" HPOS="0"/>
+         <PrintSpace HEIGHT="2581" WIDTH="2000" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="2144" WIDTH="1601" VPOS="108" HPOS="248">
+               <Shape>
+                  <Polygon POINTS="248,108 248,2252 1849,2252 1849,108"/>
+               </Shape>
+               <TextLine ID="r1l2"
+                         BASELINE="689,170 714,170 739,170 764,170 789,170 814,169 839,169 864,168 890,168 915,167 940,167 965,167 990,168 1015,168 1040,169 1066,170"
+                         HEIGHT="93"
+                         WIDTH="396"
+                         VPOS="118"
+                         HPOS="680">
+                  <String ID="string_r1l2"
+                          HEIGHT="93"
+                          WIDTH="396"
+                          VPOS="118"
+                          HPOS="680"
+                          CONTENT="SAMSONI"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="268,240 317,239 367,238 417,238 467,237 517,237 566,237 616,237 666,237 716,237 766,237 815,237 865,237 915,237 965,237 1015,237 1064,238 1114,238 1164,238 1214,237 1264,237"
+                         HEIGHT="119"
+                         WIDTH="1013"
+                         VPOS="171"
+                         HPOS="259">
+                  <String ID="string_r1l3"
+                          HEIGHT="119"
+                          WIDTH="1013"
+                          VPOS="171"
+                          HPOS="259"
+                          CONTENT="Oscula tunc figo vel de te mutua sumo,"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="362,305 436,306 510,306 585,306 659,306 733,306 808,306 882,306 956,306 1031,306 1105,307 1179,307 1254,308 1328,308 1402,310 1477,311 1551,312 1625,314 1700,316 1774,319 1849,322"
+                         HEIGHT="123"
+                         WIDTH="1506"
+                         VPOS="244"
+                         HPOS="353">
+                  <String ID="string_r1l4"
+                          HEIGHT="123"
+                          WIDTH="1506"
+                          VPOS="244"
+                          HPOS="353"
+                          CONTENT="Oscula coelesti non renuenda Deae."/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="283,389 331,385 379,381 427,378 476,376 524,375 572,374 620,373 669,373 717,373 765,374 813,374 862,375 910,376 958,377 1006,377 1055,378 1103,378 1151,378 1199,378 1248,378"
+                         HEIGHT="111"
+                         WIDTH="983"
+                         VPOS="313"
+                         HPOS="274">
+                  <String ID="string_r1l5"
+                          HEIGHT="111"
+                          WIDTH="983"
+                          VPOS="313"
+                          HPOS="274"
+                          CONTENT="Ast ubi lętitiae forsan pars maxima nostrae"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="360,459 405,455 451,452 497,449 543,447 588,445 634,443 680,443 726,442 771,442 817,442 863,443 909,443 954,445 1000,446 1046,447 1092,449 1137,451 1183,453 1229,455 1275,456"
+                         HEIGHT="121"
+                         WIDTH="934"
+                         VPOS="383"
+                         HPOS="351">
+                  <String ID="string_r1l6"
+                          HEIGHT="121"
+                          WIDTH="934"
+                          VPOS="383"
+                          HPOS="351"
+                          CONTENT="Approperat tenero corpore Somnus abit."/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="295,535 347,531 399,526 452,523 504,520 556,519 609,517 661,516 713,515 766,515 818,516 870,516 923,517 975,519 1027,520 1080,522 1132,524 1184,526 1237,529 1289,531 1342,533"
+                         HEIGHT="128"
+                         WIDTH="1066"
+                         VPOS="450"
+                         HPOS="285">
+                  <String ID="string_r1l7"
+                          HEIGHT="128"
+                          WIDTH="1066"
+                          VPOS="450"
+                          HPOS="285"
+                          CONTENT="Tunc ego ceu nobis fugientem cernere possim"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="359,600 403,599 447,597 491,596 535,594 579,593 623,592 667,591 711,590 755,590 800,589 844,589 888,589 932,590 976,591 1020,591 1064,592 1108,594 1152,595 1196,598 1241,600"
+                         HEIGHT="123"
+                         WIDTH="901"
+                         VPOS="523"
+                         HPOS="349">
+                  <String ID="string_r1l8"
+                          HEIGHT="123"
+                          WIDTH="901"
+                          VPOS="523"
+                          HPOS="349"
+                          CONTENT="In lachrymas iaceo tota soluta meas"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="291,670 345,669 400,667 455,666 509,665 564,664 619,663 673,663 728,662 783,662 837,662 892,663 947,664 1001,664 1056,666 1111,667 1165,669 1220,671 1275,673 1330,676"
+                         HEIGHT="118"
+                         WIDTH="1059"
+                         VPOS="602"
+                         HPOS="281">
+                  <String ID="string_r1l9"
+                          HEIGHT="118"
+                          WIDTH="1059"
+                          VPOS="602"
+                          HPOS="281"
+                          CONTENT="Et repetita mea volvo vaga gaudia mente,"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="364,742 408,740 453,738 497,737 542,736 587,736 631,735 676,735 721,735 765,736 810,736 855,737 899,737 944,738 989,739 1033,740 1078,741 1123,742 1167,743 1212,744 1257,745"
+                         HEIGHT="126"
+                         WIDTH="913"
+                         VPOS="667"
+                         HPOS="354">
+                  <String ID="string_r1l10"
+                          HEIGHT="126"
+                          WIDTH="913"
+                          VPOS="667"
+                          HPOS="354"
+                          CONTENT="Materiam luctus congero et inde mei."/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="296,818 347,816 398,814 449,812 500,810 551,809 602,808 653,807 704,807 755,807 806,807 857,807 908,807 959,808 1010,809 1061,810 1112,812 1163,813 1214,815 1265,817 1316,820"
+                         HEIGHT="126"
+                         WIDTH="1038"
+                         VPOS="731"
+                         HPOS="287">
+                  <String ID="string_r1l11"
+                          HEIGHT="126"
+                          WIDTH="1038"
+                          VPOS="731"
+                          HPOS="287"
+                          CONTENT="Sic mihi mox agitur, pereunt sic tempora lucis"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="355,889 399,887 443,885 487,883 531,882 575,882 619,881 664,881 708,881 752,882 796,882 840,883 884,884 928,885 973,887 1017,888 1061,889 1105,891 1149,893 1193,894 1238,895"
+                         HEIGHT="117"
+                         WIDTH="903"
+                         VPOS="829"
+                         HPOS="345">
+                  <String ID="string_r1l12"
+                          HEIGHT="117"
+                          WIDTH="903"
+                          VPOS="829"
+                          HPOS="345"
+                          CONTENT="Dum tu tam longo tempore lentus abes."/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="306,967 363,964 420,961 477,959 534,957 592,956 649,956 706,955 763,956 820,957 878,958 935,960 992,963 1049,966 1106,969 1164,973 1221,977 1278,982 1335,988 1392,994 1450,1000"
+                         HEIGHT="155"
+                         WIDTH="1164"
+                         VPOS="891"
+                         HPOS="296">
+                  <String ID="string_r1l13"
+                          HEIGHT="155"
+                          WIDTH="1164"
+                          VPOS="891"
+                          HPOS="296"
+                          CONTENT="Huc tamen, o iuvenis, toto mihi corde recepte,"/>
+               </TextLine>
+               <TextLine ID="line_1615481602379_4792"
+                         BASELINE="352,1037 396,1037 441,1037 485,1037 530,1036 575,1036 619,1036 664,1036 708,1036 753,1036 798,1036 842,1036 887,1037 931,1038 976,1039 1021,1040 1065,1042 1110,1044 1154,1046 1199,1049 1244,1052 506,998 525,994 545,996 570,996 596,995 621,995 647,995 672,994 698,994 724,994 749,994 775,994 800,995 826,996 852,997"
+                         HEIGHT="143"
+                         WIDTH="912"
+                         VPOS="954"
+                         HPOS="342">
+                  <String ID="string_line_1615481602379_4792"
+                          HEIGHT="143"
+                          WIDTH="912"
+                          VPOS="954"
+                          HPOS="342"
+                          CONTENT="Lecti iam renovans gaudia nostra redi."/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="306,1115 357,1113 409,1111 461,1110 513,1109 564,1109 616,1108 668,1109 720,1109 771,1110 823,1111 875,1112 927,1114 978,1116 1030,1118 1082,1121 1134,1124 1185,1127 1237,1131 1289,1135 1341,1139"
+                         HEIGHT="131"
+                         WIDTH="1054"
+                         VPOS="1034"
+                         HPOS="297">
+                  <String ID="string_r1l17"
+                          HEIGHT="131"
+                          WIDTH="1054"
+                          VPOS="1034"
+                          HPOS="297"
+                          CONTENT="Quod si nolueris, peream mihi crede dolendo,"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="360,1196 403,1193 447,1190 491,1188 535,1187 579,1187 622,1186 666,1187 710,1187 754,1188 798,1189 841,1190 885,1192 929,1193 973,1195 1017,1196 1060,1197 1104,1198 1148,1199 1192,1200 1236,1200"
+                         HEIGHT="118"
+                         WIDTH="896"
+                         VPOS="1123"
+                         HPOS="350">
+                  <String ID="string_r1l18"
+                          HEIGHT="118"
+                          WIDTH="896"
+                          VPOS="1123"
+                          HPOS="350"
+                          CONTENT="An poteris causam mortis habere meae?"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="288,1273 337,1268 387,1265 436,1263 486,1261 535,1259 585,1259 634,1258 684,1259 733,1260 783,1261 832,1262 882,1264 931,1266 981,1268 1030,1270 1080,1273 1129,1274 1179,1276 1228,1278 1278,1279"
+                         HEIGHT="104"
+                         WIDTH="1009"
+                         VPOS="1206"
+                         HPOS="279">
+                  <String ID="string_r1l19"
+                          HEIGHT="104"
+                          WIDTH="1009"
+                          VPOS="1206"
+                          HPOS="279"
+                          CONTENT="Ah potius vivam per te, sed munera vitae"/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="358,1347 402,1345 447,1342 491,1340 536,1339 580,1338 625,1337 669,1337 714,1337 758,1337 803,1338 847,1339 892,1340 936,1342 981,1344 1025,1346 1070,1348 1114,1351 1159,1354 1203,1357 1248,1360"
+                         HEIGHT="155"
+                         WIDTH="911"
+                         VPOS="1257"
+                         HPOS="348">
+                  <String ID="string_r1l20"
+                          HEIGHT="155"
+                          WIDTH="911"
+                          VPOS="1257"
+                          HPOS="348"
+                          CONTENT="Hora tui reditus sola dedisse potest."/>
+               </TextLine>
+               <TextLine ID="r1l21"
+                         BASELINE="482,1453 516,1454 551,1454 586,1454 621,1454 656,1454 691,1455 726,1455 761,1455 796,1455 831,1455 865,1455 900,1455 935,1455 970,1456 1005,1456 1040,1456 1075,1456 1110,1457 1145,1457 1180,1457"
+                         HEIGHT="91"
+                         WIDTH="716"
+                         VPOS="1384"
+                         HPOS="473">
+                  <String ID="string_r1l21"
+                          HEIGHT="91"
+                          WIDTH="716"
+                          VPOS="1384"
+                          HPOS="473"
+                          CONTENT="MICHOL DAVIDI."/>
+               </TextLine>
+               <TextLine ID="r1l22"
+                         BASELINE="248,1573 293,1570 339,1569 385,1567 431,1565 476,1564 522,1563 568,1562 614,1562 659,1561 705,1561 751,1561 797,1562 842,1562 888,1563 934,1563 980,1564 1025,1565 1071,1565 1117,1566 1163,1567"
+                         HEIGHT="177"
+                         WIDTH="935"
+                         VPOS="1450"
+                         HPOS="238">
+                  <String ID="string_r1l22"
+                          HEIGHT="177"
+                          WIDTH="935"
+                          VPOS="1450"
+                          HPOS="238"
+                          CONTENT="Diceris exacto lugentis tempore vitae"/>
+               </TextLine>
+               <TextLine ID="r1l23"
+                         BASELINE="349,1642 393,1642 438,1642 482,1643 527,1644 571,1644 616,1645 660,1646 705,1647 749,1647 794,1648 839,1649 883,1649 928,1649 972,1650 1017,1650 1061,1649 1106,1649 1150,1648 1195,1648 1240,1646"
+                         HEIGHT="138"
+                         WIDTH="910"
+                         VPOS="1561"
+                         HPOS="339">
+                  <String ID="string_r1l23"
+                          HEIGHT="138"
+                          WIDTH="910"
+                          VPOS="1561"
+                          HPOS="339"
+                          CONTENT="Regia victrici sceptra tenere manu."/>
+               </TextLine>
+               <TextLine ID="r1l24"
+                         BASELINE="257,1734 312,1729 368,1726 423,1723 479,1722 534,1721 590,1720 645,1720 701,1721 756,1721 812,1723 868,1724 923,1725 979,1727 1034,1729 1090,1730 1145,1732 1201,1733 1256,1734 1312,1734 1368,1734"
+                         HEIGHT="156"
+                         WIDTH="1130"
+                         VPOS="1643"
+                         HPOS="247">
+                  <String ID="string_r1l24"
+                          HEIGHT="156"
+                          WIDTH="1130"
+                          VPOS="1643"
+                          HPOS="247"
+                          CONTENT="Gratulor incolumi, si tu sinis, hoc tamen ipsum"/>
+               </TextLine>
+               <TextLine ID="r1l25"
+                         BASELINE="354,1801 397,1798 440,1796 483,1795 527,1794 570,1794 613,1795 657,1796 700,1797 743,1799 787,1800 830,1802 873,1803 916,1805 960,1806 1003,1807 1046,1807 1090,1807 1133,1805 1176,1804 1220,1801"
+                         HEIGHT="123"
+                         WIDTH="887"
+                         VPOS="1736"
+                         HPOS="344">
+                  <String ID="string_r1l25"
+                          HEIGHT="123"
+                          WIDTH="887"
+                          VPOS="1736"
+                          HPOS="344"
+                          CONTENT="Me potius per te perdidicisse velim."/>
+               </TextLine>
+               <TextLine ID="r1l26"
+                         BASELINE="286,1881 332,1878 379,1874 426,1872 473,1871 520,1870 566,1870 613,1871 660,1872 707,1873 754,1874 800,1876 847,1878 894,1879 941,1880 988,1881 1034,1882 1081,1882 1128,1881 1175,1880 1222,1878"
+                         HEIGHT="115"
+                         WIDTH="956"
+                         VPOS="1817"
+                         HPOS="276">
+                  <String ID="string_r1l26"
+                          HEIGHT="115"
+                          WIDTH="956"
+                          VPOS="1817"
+                          HPOS="276"
+                          CONTENT="Nam quamvis alii vivam commissa marito"/>
+               </TextLine>
+               <TextLine ID="r1l27"
+                         BASELINE="370,1953 415,1950 461,1949 506,1948 552,1947 598,1947 643,1948 689,1949 734,1950 780,1951 826,1953 871,1954 917,1956 962,1958 1008,1959 1054,1960 1099,1961 1145,1962 1190,1962 1236,1961 1282,1960"
+                         HEIGHT="140"
+                         WIDTH="932"
+                         VPOS="1882"
+                         HPOS="361">
+                  <String ID="string_r1l27"
+                          HEIGHT="140"
+                          WIDTH="932"
+                          VPOS="1882"
+                          HPOS="361"
+                          CONTENT="Sum tamen in regis carmine digna legi."/>
+               </TextLine>
+               <TextLine ID="r1l28"
+                         BASELINE="302,2026 362,2026 422,2026 483,2026 543,2026 604,2026 664,2026 724,2027 785,2028 845,2029 906,2030 966,2032 1026,2033 1087,2036 1147,2038 1208,2040 1268,2044 1328,2047 1389,2051 1449,2055 1510,2060"
+                         HEIGHT="133"
+                         WIDTH="1229"
+                         VPOS="1954"
+                         HPOS="291">
+                  <String ID="string_r1l28"
+                          HEIGHT="133"
+                          WIDTH="1229"
+                          VPOS="1954"
+                          HPOS="291"
+                          CONTENT="Nam quod translatum est dilecti foedus amoris"/>
+               </TextLine>
+               <TextLine ID="r1l29"
+                         BASELINE="392,2108 447,2107 502,2107 557,2107 613,2107 668,2107 723,2108 779,2109 834,2110 889,2111 945,2113 1000,2114 1055,2116 1110,2118 1166,2121 1221,2123 1276,2125 1332,2128 1387,2131 1442,2134 1498,2137"
+                         HEIGHT="146"
+                         WIDTH="1123"
+                         VPOS="2035"
+                         HPOS="384">
+                  <String ID="string_r1l29"
+                          HEIGHT="146"
+                          WIDTH="1123"
+                          VPOS="2035"
+                          HPOS="384"
+                          CONTENT="Non mea, crede mihi, culpa parentis erat. "/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
